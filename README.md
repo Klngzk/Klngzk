@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate software engineer with 1 year of experience in developing, designing, and implementing software applications. Utilize Python, Java, and JavaScript to write scalable, secure code with a knack for problem-solving.
+Passionate software engineer with 2 year of experience in developing, designing, and implementing software applications. Utilize Python, Java, and JavaScript to write scalable, secure code with a knack for problem-solving.
 
 
 ## 🌐 Socials:
